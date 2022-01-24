@@ -1,0 +1,37 @@
+h1 {
+color:teal;
+font-family:copperplate;
+background-color: cornflowerblue;
+border: 5px solid black;
+padding: 50px;
+}
+.top {
+background-color: darkseagreen;
+float: right;
+}
+h2 {
+color:white;
+font-family:copperplate;
+background-color: slateblue;
+border: 5px solid cornflowerblue;
+}
+body {
+background-color:cornsilk;
+}
+img {
+  width: 50%;
+  height: 50%;
+}
+p {
+  color: darkcyan;
+  font-family: monospace;
+  background-color: darksalmon;
+  border: 2px solid darkturquoise;
+}
+#highlight {
+  color: darkcyan;
+  font-family: monospace;
+  background-color: darksalmon;
+  border: 2px solid darkturquoise;
+
+}
