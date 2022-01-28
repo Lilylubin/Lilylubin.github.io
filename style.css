@@ -4,34 +4,39 @@ font-family:copperplate;
 background-color: cornflowerblue;
 border: 5px solid black;
 padding: 50px;
+text-align: center;
 }
 .top {
 background-color: darkseagreen;
-float: right;
+float: center;
 }
-h2 {
+h3 {
 color:white;
 font-family:copperplate;
 background-color: slateblue;
 border: 5px solid cornflowerblue;
 }
-body {
-background-color:cornsilk;
-}
-img {
-  width: 50%;
-  height: 50%;
-}
 p {
   color: darkcyan;
-  font-family: monospace;
-  background-color: darksalmon;
-  border: 2px solid darkturquoise;
+  font-family: papyrus;
+  font-weight: bolder;
+  text-align: center;
 }
 #highlight {
   color: darkcyan;
-  font-family: monospace;
-  background-color: darksalmon;
-  border: 2px solid darkturquoise;
-
+  font-family: papyrus;
+}
+img {
+  padding: 8px;
+  border:10px solid slateblue;
+  background-color: darkturquoise;
+  width:60%;
+  height:60%;
+}
+h2 {
+  color:#2F4F4F;
+  font-family: copperplate;
+  border: 2px solid darkorchid;
+  text-align: center;
+  background-color: darkseagreen;
 }
